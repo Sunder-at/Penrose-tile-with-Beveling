@@ -1,5 +1,3 @@
-#define USE_TEXTURE
-
 //#ifndef IS_COMPUTE
 //#define USE_TEXTURE
 //#define TRI_BORDER
