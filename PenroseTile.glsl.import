@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://by8xsugxdvwwp"
+path="res://.godot/imported/PenroseTile.glsl-dd301a4b3cf062dba774d9991a7d3d6d.res"
+
+[deps]
+
+source_file="res://PenroseTile.glsl"
+dest_files=["res://.godot/imported/PenroseTile.glsl-dd301a4b3cf062dba774d9991a7d3d6d.res"]
+
+[params]
+
